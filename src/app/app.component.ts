@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
 
   showModal() {
     this.flexModal.openDialog('about-modal');
-    console.log("yayaya")
+    console.log("mike")
 
 
   }
