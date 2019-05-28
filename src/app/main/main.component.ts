@@ -13,8 +13,10 @@ export class MainComponent implements OnInit {
 
   ngOnInit() {
 
+
+
   }
+}
 
   // convert name passed from the Orders page to <First Name> <Last Name> and display text
 
-}
